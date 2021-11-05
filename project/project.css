@@ -22,6 +22,9 @@ button {
   outline: none;
 }
 
+button:hover {
+  background-color: #1468cd;
+}
 
 /* there is something wrong with bootstrap container so i used my own styles to manage my container to be 1140px */
 
