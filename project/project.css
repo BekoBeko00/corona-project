@@ -21,15 +21,9 @@ button {
   cursor: pointer;
   outline: none;
 }
-button:hover {
 
-}
 
 /* there is something wrong with bootstrap container so i used my own styles to manage my container to be 1140px */
-
-.container {
-  /* width: 1140px; */
-}
 
 /* start navbar  */
 .header {
